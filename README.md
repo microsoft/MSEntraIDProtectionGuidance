@@ -1,14 +1,6 @@
-# Project
+# MS Entra ID Protection Guidance
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
-
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+A Microsoft open-source initiative aimed at helping defender teams to arm responders with the knowledge to properly respond to compromise of Microsoft Entra Tenants. Although some example hunting queries for Microsoft Sentinel and Microsoft Defender XDR Advanced Hunting are provided in this guidance, the advice and recommendations are designed to be used by anyone, regardless of security technology stack. This guidance should be shared with internal response teams or incident response partners.
 
 ## Contributing
 
@@ -31,3 +23,7 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## Disclaimer
+
+This document provides general guidance to aid organizations in their mitigation of risk around potentially exposed credentials. Risk mitigation strategies for potentially exposed credentials will be fact dependent and are one component of a comprehensive organizational risk assessment. This guidance is provided AS IS without warranty of any kind. Microsoft disclaims the completeness and applicability of the results obtained by means of executing this guidance. Microsoft further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. In no event shall Microsoft, its authors, or anyone else involved in the creation, production, or delivery of the guidance be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use the guidance or documentation, even if Microsoft has been advised of the possibility of such damages.
